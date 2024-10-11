@@ -1,5 +1,5 @@
 name: cicd-example-workspaces
-prefect-version: 2.16.2
+prefect-version: 3.0.8
 
 build: null
 
