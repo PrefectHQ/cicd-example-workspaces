@@ -1,2 +1,2 @@
-prefect==2.16.1
-prefect-aws
+prefect==3.0.8
+prefect-aws==0.50
